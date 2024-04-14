@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diagnal</string>
+    <string name="search_books">Search Books</string>
+    <string name="image_source">Image Source</string>
+    <string name="cancel_button">Cancel Button</string>
+    <string name="search_button">Search Button</string>
+    <string name="title">Romantic Comedy</string>
+</resources>
